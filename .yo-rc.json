@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.business.service"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "microservice",
+    "baseName": "businesservice",
+    "packageName": "com.business.service",
+    "packageFolder": "com/business/service",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjgxYjRmMzcxNWNmZjc0Njk2ZmQyNWI2NTRjYmEwZDRlNGY1N2M1YTAxYWRhMjc2M2IyZWYzZTI0MDI5MmFmNTFkOGMzOGNmNTZlZjQyYjFkMjM2MjM1YWU4NGI4MWUzNjAxZjYwZjk1NGM1NTBmMDgyNDY3NGJjNjIxZmE2YzU=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
